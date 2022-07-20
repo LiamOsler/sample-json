@@ -1,0 +1,13 @@
+{
+    "message" : "Hello World",
+    "objArr": [
+      {
+        "translation" : "Salut Le Monde",
+        "language" : "French"
+      },
+      {
+        "translation" : "Ciao Mondo",
+        "language" : "Italian"
+      }
+    ]
+}
