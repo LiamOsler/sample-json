@@ -1,0 +1,20 @@
+{
+    "phrases" : [
+        {
+            "English" : "Hello World",
+            "French" : "Bonjour Les Gens",
+            "German" : "Hallo Welt",
+            "Italian" : "Ciao Mondo"
+        },
+        {
+            "English" : "Goodnight Moon",
+            "French" : "Bonsoir Lune",
+            "German" : "Gute Nacht Liebe Mond",
+            "Italian" : "Buonanotte Luna" 
+        },
+        {
+            "German" : "Guten Morgen Sonnenschein",
+            "English" : "Good Morning Sunshine"
+        }
+    ]
+}
