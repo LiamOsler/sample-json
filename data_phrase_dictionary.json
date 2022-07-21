@@ -47,7 +47,7 @@
         {
             "phrase" : "Guten Morgen Sonnenschein",
             "language" : "German",
-            "translations" :[
+            "translations" : [
                 {
                     "phrase" : "Good Morning Sunshine",
                     "language" : "English"
