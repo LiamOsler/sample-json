@@ -1,0 +1,58 @@
+{
+    "phrases" : [
+        {
+            "phrase" : "Hello World",
+            "language" : "English",
+            "translations" : [
+                {
+                    "phrase" : "Hola Mundo",
+                    "language" : "Spanish"
+                },
+                {
+                    "phrase" : "Bonjour Les Gens",
+                    "language" : "French"
+                },
+                {
+                    "phrase" : "Hallo Welt",
+                    "language" : "German"
+                },
+                {
+                    "phrase" : "Ciao Mondo",
+                    "language" : "Italian"
+                }
+            ]
+        },
+        {
+            "phrase" : "Good Night Moon",
+            "language" : "English",
+            "translations" : [
+                {
+                    "phrase" : "Buenas Noches Luna",
+                    "language" : "Spanish"
+                },
+                {
+                    "phrase" : "Bonsoir Lune",
+                    "language" : "French"
+                },
+                {
+                    "phrase" : "Gute Nacht Lieber Mond",
+                    "language" : "German"
+                },
+                {
+                    "phrase" : "Buonanotte Luna",
+                    "language" : "Italian"
+                }
+            ]
+        },
+        {
+            "phrase" : "Good Morning Sunshine",
+            "language" : "English",
+            "translations" :[
+                {
+                    "phrase" : "Guten Morgen Sonnenschein",
+                    "language" : "German"
+                }
+            ]
+        }
+    ]
+}
