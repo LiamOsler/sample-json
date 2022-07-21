@@ -45,12 +45,12 @@
             ]
         },
         {
-            "phrase" : "Good Morning Sunshine",
-            "language" : "English",
+            "phrase" : "Guten Morgen Sonnenschein",
+            "language" : "German",
             "translations" :[
                 {
-                    "phrase" : "Guten Morgen Sonnenschein",
-                    "language" : "German"
+                    "phrase" : "Good Morning Sunshine",
+                    "language" : "English"
                 }
             ]
         }
